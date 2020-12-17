@@ -1,4 +1,5 @@
 # 算法系列
+> [首页](https://github.com/shgopher/GOFamily)
 ## 算法
 - [时间复杂度](./算法/时间复杂度.md)
 - [动态规划](./算法/dp.md)
@@ -107,4 +108,6 @@
  > 固定用法
 
 - [Functional Options 功能选项 ok](./设计模式/功能选项.md)
+## 了解更多
+关注公众号/b站：科科人神
 
