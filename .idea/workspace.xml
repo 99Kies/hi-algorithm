@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ca7d4ee-db7a-46c3-9cf7-e288f9c66a25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/hash-table/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/102.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/bfs/102.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/104.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dfs/104.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/120.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dp/120.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/121.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dp/121.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/122.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dp/122.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/141.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/linkedlist/141.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/146.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/design/146.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/15.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/two-pointer/15.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/152.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dp/152.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/169.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/divide-conquer/169.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/18.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/hash-table/18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/191.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/bit-opeartions/191.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/20.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/stack/20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/200.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/union-and-find/200.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/205.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/205.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/206.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/linkedlist/206.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/208.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/trie/208.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/21.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/linkedlist/21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/212.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/trie/212.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/22.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/pruning/22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/225.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/queue/225.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/231.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/bit-opeartions/231.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/232.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/stack/232.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/235.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/tree/235.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/239.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/sliding-window/239.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/24.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/linkedlist/24.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/240.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/240.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/242.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/242.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/283.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/283.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/287.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/287.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/300.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/300.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/338.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/bit-opeartions/338.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/36.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/hash-table/36.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/37.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/pruning/37.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/378.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/378.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/409.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/409.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/485.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/485.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/50.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/divide-conquer/50.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/51.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/pruning/51.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/52.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/bit-opeartions/52.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/547.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/union-and-find/547.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/565.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/565.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/566.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/566.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/645.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/645.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/647.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/647.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/667.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/667.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/69.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/binary-search/69.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/696.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/696.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/697.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/697.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/70.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/dp/70.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/703.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/heap/703.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/766.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/766.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/769.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/array/769.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/9.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/string/9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/98.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/tree/98.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/leetcode/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.15.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m5MHe1TakCMOn1MoMYlqjelfG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法题/leetcode/array" />
+      <recent name="$PROJECT_DIR$/算法题/leetcode/heap" />
+      <recent name="$PROJECT_DIR$/算法题/leetcode/string" />
+      <recent name="$PROJECT_DIR$/算法题/leetcode/union-and-find" />
+      <recent name="$PROJECT_DIR$/算法题/leetcode/bit-opeartions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn,direct" />
+      </map>
+    </environment>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+</project>
